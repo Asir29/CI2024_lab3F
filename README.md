@@ -1,5 +1,5 @@
-# CI2024_lab3
-Lab3 for Computational Intelligence Course at Polito
+# CI2024_lab3F
+Lab3Flipped for Computational Intelligence Course at Polito
 
 The approach for the Path Problem has been understood from the lectures. The road is in the following lines.
 -Firstly, is created an undirected graph so that each node is linked to the closest five cities of the dataset.
